@@ -9,42 +9,40 @@
 
 ---
 
-### 📌 What drives me
+<details>
+  <summary><b>📌 What drives me</b></summary>
+  
+  <br>
 
-<div align="center">
-  <div style="display: inline-block; vertical-align: top; text-align: left;">
-    <ul>
-      <li>🧩 Building solutions from scratch</li>
-      <li>🖥️ Backend development & system architecture</li>
-      <li>🛠️ Maintenance, analysis, and optimization</li>
-      <li>🤖 Artificial Intelligence (Computer Vision & NLP)</li>
-      <li>🗄️ Databases and data modeling</li>
-      <li>🐧 Linux & environment customization</li>
-    </ul>
-  </div>
-  <div style="display: inline-block; vertical-align: top;">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" alt="dev gif"/>
-  </div>
-</div>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" align="right" width="300" alt="dev gif"/>
+
+  <ul>
+    <li>🧩 Building solutions from scratch</li>
+    <li>🖥️ Backend development & system architecture</li>
+    <li>🛠️ Maintenance, analysis, and optimization</li>
+    <li>🤖 Artificial Intelligence (Computer Vision & NLP)</li>
+    <li>🗄️ Databases and data modeling</li>
+    <li>🐧 Linux & environment customization</li>
+  </ul>
+</details>
 
 
 ---
 
-### 🧑‍💻 About me
+<details>
+  <summary><b>🧑‍💻 About me</b></summary>
+  
+  <br>
 
-<div align="center">
-  <div style="display: inline-block; vertical-align: top; text-align: left;">
-    <ul>
-      <li>🎓 Software Engineering student</li>
-      <li>💻 Linux user</li>
-      <li>☁️ Cloud experience with <b>AWS</b> and <b>Google Colab</b> for AI model training</li>
-      <li>🔍 I focus on delivering solutions</li>
-    </ul>
-  </div>
-  <div style="display: inline-block; vertical-align: top;">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="100" alt="about gif"/>
-  </div>
-</div>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" align="right" width="100" alt="about gif"/>
+
+  <ul>
+    <li>🎓 Software Engineering student</li>
+    <li>💻 Linux user</li>
+    <li>☁️ Cloud experience with <b>AWS</b> and <b>Google Colab</b> for AI model training</li>
+    <li>🔍 I focus on delivering solutions</li>
+  </ul>
+</details>
 
 ---
 
