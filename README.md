@@ -54,27 +54,32 @@
 
 ### 🛠 Tech Stack
 
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,express,nodejs" alt="Backend"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,astro" alt="Frontend"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Databases"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,linux,git" alt="Cloud"/>
-
-**AI & ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="AI"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,express,nodejs" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,astro" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Databases"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,linux,git" alt="Cloud"/></td>
+  </tr>
+  <tr>
+    <td><b>AI & ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow" alt="AI"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/></td>
+  </tr>
+</table>
 
 ---
 
